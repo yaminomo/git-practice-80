@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+bbbbb
+=======
+aaaaa
+>>>>>>> feature/conf1
